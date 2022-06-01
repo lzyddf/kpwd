@@ -7,5 +7,5 @@ This plugin for ida can keep the pseudo-code interface display while debugging.
 # Usage
 Move kpwd.py to plugins folder, which will be enabled automatically when IDA starts.
 
-# shortcuts
+# Shortcuts
 Ctrl+Shift+K
